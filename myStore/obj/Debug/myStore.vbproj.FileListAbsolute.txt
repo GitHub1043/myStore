@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\myStore\myStore\bin\Debug\myStore.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\myStore\myStore\obj\Debug\myStore.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\myStore\myStore\obj\Debug\myStore.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\myStore\myStore\obj\Debug\myStore.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\myStore\myStore\bin\Debug\myStore.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\myStore\myStore\bin\Debug\myStore.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\myStore\myStore\bin\Debug\myStore.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\myStore\myStore\obj\Debug\myStore.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\myStore\myStore\obj\Debug\myStore.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\myStore\myStore\obj\Debug\myStore.pdb
